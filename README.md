@@ -1,6 +1,6 @@
-# superapi
+# Simple Advice App 
 
-A new Flutter project.
+A simple first project with api .
 
 ## Getting Started
 
